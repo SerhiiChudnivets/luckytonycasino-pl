@@ -68,29 +68,29 @@
         {
           "link": "/play/",
           "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "",
-          "Name": "",
+          "name": "Bonus na Start 375% do pierwszych 3 depozytów + 250 FS",
+          "Name": "Bonus na Start 375% do pierwszych 3 depozytów + 250 FS",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
-          "name": "",
-          "Name": "",
+          "name": "Bonus za Pobranie Aplikacji do 80 zł",
+          "Name": "Bonus za Pobranie Aplikacji do 80 zł",
           "logo_alt": "Exclusive Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
-          "name": "",
-          "Name": "",
+          "name": "Bonus za Zaproszenie Znajomych 30 FS + 15 FS dla znajomego",
+          "Name": "Bonus za Zaproszenie Znajomych 30 FS + 15 FS dla znajomego",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
-          "name": "",
-          "Name": "",
+          "name": "Bonus Telegram Bot 50 FS w Top Game",
+          "Name": "Bonus Telegram Bot 50 FS w Top Game",
           "logo_alt": "Sport Bonus"
         }
       ],
@@ -346,29 +346,29 @@
     {
       "link": "/play/",
       "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-      "name": "",
-      "Name": "",
+      "name": "Bonus na Start 375% do pierwszych 3 depozytów + 250 FS",
+      "Name": "Bonus na Start 375% do pierwszych 3 depozytów + 250 FS",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
-      "name": "",
-      "Name": "",
+      "name": "Bonus za Pobranie Aplikacji do 80 zł",
+      "Name": "Bonus za Pobranie Aplikacji do 80 zł",
       "logo_alt": "Exclusive Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
-      "name": "",
-      "Name": "",
+      "name": "Bonus za Zaproszenie Znajomych 30 FS + 15 FS dla znajomego",
+      "Name": "Bonus za Zaproszenie Znajomych 30 FS + 15 FS dla znajomego",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
-      "name": "",
-      "Name": "",
+      "name": "Bonus Telegram Bot 50 FS w Top Game",
+      "Name": "Bonus Telegram Bot 50 FS w Top Game",
       "logo_alt": "Sport Bonus"
     }
   ],
@@ -399,9 +399,9 @@
       "question": "Co zrobić, jeśli zapomnę danych do Lucky Tony Casino login?"
     }
   ],
-  "_generated_at": "2026-10-02T13:11:12.275Z",
+  "_generated_at": "2026-10-02T13:17:02.742Z",
   "_version": "1.0.0",
   "content_alt": "lucky tony bonus",
-  "_last_deploy": "2026-10-02T13:11:12.954Z",
-  "_deploy_trigger": "t9l3eo"
+  "_last_deploy": "2026-10-02T13:17:03.375Z",
+  "_deploy_trigger": "q8z0qq"
 }
