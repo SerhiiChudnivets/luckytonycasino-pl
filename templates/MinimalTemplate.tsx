@@ -44,6 +44,7 @@ interface PageData {
   hero_subtitle?: string
   heroSubtitle?: string
   hero_badge?: string
+  heroBadge?: string
   heroImage?: string | MediaFile | MediaFile[] | null
   hero_image?: string | MediaFile | MediaFile[] | null
   cta_text?: string
@@ -523,7 +524,8 @@ export default function MinimalTemplate({ page, site }: { page: PageData; site: 
   const metaDescription = pageSeoDescription || extractMetaDescription(htmlHeadContent)
   const heroTitle = page.heroTitle || page.hero_title || site.heroTitle || site.hero_title || page.title || siteName
   const heroSubtitle = page.heroSubtitle || page.hero_subtitle || site.heroSubtitle || site.hero_subtitle || ''
-  const heroBadge = page.hero_badge || site.hero_badge || ''
+  const pageHeroBadge = Object.prototype.hasOwnProperty.call(page, 'heroBadge') ? page.heroBadge : page.hero_badge
+  const heroBadge = typeof pageHeroBadge === 'string' ? pageHeroBadge.trim() : ''
   const ctaText = page.cta_text || site.cta_text || ''
   const redirectLink = page.cta_link || page.redirect_link || site.redirect_link || '/'
   const loginText = page.login_text || site.login_text

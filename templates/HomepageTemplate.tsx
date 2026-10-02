@@ -723,7 +723,8 @@ export default function HomepageTemplate({ page, site }: { page: PageData; site:
   const siteName = site.site_name || site.name || 'LuckySpin'
   const heroTitle = page.heroTitle || page.hero_title || site.heroTitle || site.hero_title || 'Get 200% Bonus'
   const heroSubtitle = page.heroSubtitle || page.hero_subtitle || site.heroSubtitle || site.hero_subtitle || 'Up to \u20AC1,000 + 100 Free Spins'
-  const heroBadge = page.heroBadge || page.hero_badge || site.heroBadge || site.hero_badge || 'Welcome Bonus'
+  const pageHeroBadge = Object.prototype.hasOwnProperty.call(page, 'heroBadge') ? page.heroBadge : page.hero_badge
+  const heroBadge = typeof pageHeroBadge === 'string' ? pageHeroBadge.trim() : ''
   const ctaText = page.ctaText || page.cta_text || site.ctaText || site.cta_text || 'Play Now'
   const tagline = page.tagline || site.tagline || 'Start your winning journey today with the best welcome offer in online gaming!'
   const popupText = page.popup_text || site.popup_text || 'Welcome Bonus: 100% up to $500 + 200 Free Spins!'
@@ -1023,7 +1024,7 @@ export default function HomepageTemplate({ page, site }: { page: PageData; site:
           <div className="hero-overlay"></div>
           <div className="container">
             <div className="hero-content">
-              <span className="hero-badge">{heroBadge}</span>
+              {heroBadge && <span className="hero-badge">{heroBadge}</span>}
               <div className="hero-background">
                 <h1 className="hero-title">
                   <span className="hero-accent">{heroTitle}</span>
