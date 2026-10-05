@@ -5,7 +5,7 @@
   "url": "luckytonycasino.pl",
   "template": "tupchiy",
   "language_code": "pl",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -399,9 +399,9 @@
       "question": "Co zrobić, jeśli zapomnę danych do Lucky Tony Casino login?"
     }
   ],
-  "_generated_at": "2026-10-02T15:54:30.262Z",
+  "_generated_at": "2026-10-05T09:25:31.412Z",
   "_version": "1.0.0",
   "content_alt": "lucky tony bonus",
-  "_last_deploy": "2026-10-02T15:54:30.844Z",
-  "_deploy_trigger": "t3k5dfa"
+  "_last_deploy": "2026-10-05T09:25:32.033Z",
+  "_deploy_trigger": "yjg0r"
 }
