@@ -23,7 +23,7 @@
       "heroTitle": "Lucky Tony Casino",
       "heroSubtitle": "ZAKRĘĆ LOSEM, ZGARNIJ FORTUNĘ",
       "heroBadge": "Lucky Tony Casino - Twoje szczęście zaczyna się tutaj",
-      "ctaText": "Sprawdź",
+      "ctaText": "Zarejestruj się",
       "tagline": "Pakiet Powitalny 100% do 2 000 zł + 100 FS",
       "heroImage": "/uploads/1f598f2726b79571b2d81a1b20a230b4.webp",
       "template": "homepage",
@@ -112,7 +112,7 @@
       "html_head": "<meta name=\"google-site-verification\" content=\"Hogxa0-uGp5yBgq1ynuUOYQtrDfWbFu8-7UQ2ROETso\" />\n<link rel=\"canonical\" href=\"luckytonycasino.pl/pl-pl/\">\n<link rel=\"alternate\" href=\"luckytonycasino.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"luckytonycasino.pl/pl-pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lucky Tony Casino – Bonus do 5000 zł + 350 FS | Polska\">\n<meta property=\"og:description\" content=\"Lucky Tony Casino: pakiet powitalny do 5000 zł + 350 darmowych spinów. Sloty, kasyno live, wpłaty BLIK i szybkie wypłaty.\">\n<meta property=\"og:url\" content=\"luckytonycasino.pl\">\n<meta property=\"og:site_name\" content= \"Lucky Tony Casino\">",
       "faq_title": "Najczęściej Zadawane Pytania",
       "hero_badge": "Lucky Tony Casino - Twoje szczęście zaczyna się tutaj",
-      "cta_text": "Sprawdź",
+      "cta_text": "Zarejestruj się",
       "content_alt": "lucky tony bonus",
       "heroImage_alt": "lucky tony baner",
       "popupLogo_alt": "lucky tony logo",
@@ -179,7 +179,7 @@
   "hero_title": "Lucky Tony Casino",
   "hero_subtitle": "ZAKRĘĆ LOSEM, ZGARNIJ FORTUNĘ",
   "hero_badge": "Lucky Tony Casino - Twoje szczęście zaczyna się tutaj",
-  "cta_text": "Sprawdź",
+  "cta_text": "Zarejestruj się",
   "tagline": "Pakiet Powitalny 100% do 2 000 zł + 100 FS",
   "features_list": null,
   "footer_text": "© 2026. Lucky Tony Casino. All rights reserved",
@@ -189,7 +189,7 @@
   "register_text": "Zarejestruj się",
   "slots_title": "Gry Stołowe i Kasyno na Żywo",
   "bonus_title": "Lucky Tony Casino Bonus i Promocje",
-  "get_bonus_btn_text": "Sprawdź",
+  "get_bonus_btn_text": "Zarejestruj się",
   "redirect_link": "/play/",
   "home_name": "Lucky Tony Casino",
   "subdomains": null,
@@ -399,9 +399,9 @@
       "question": "Co zrobić, jeśli zapomnę danych do Lucky Tony Casino login?"
     }
   ],
-  "_generated_at": "2026-10-23T09:06:13.867Z",
+  "_generated_at": "2026-11-06T12:38:09.765Z",
   "_version": "1.0.0",
   "content_alt": "lucky tony bonus",
-  "_last_deploy": "2026-10-23T09:06:14.532Z",
-  "_deploy_trigger": "c5ayin"
+  "_last_deploy": "2026-11-06T12:38:10.463Z",
+  "_deploy_trigger": "s2fqe"
 }
